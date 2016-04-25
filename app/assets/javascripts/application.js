@@ -13,6 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require foundation
+//= require react
+//= require react-dom
 //= require_tree .
 
 $(function() {
