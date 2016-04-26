@@ -1,0 +1,22 @@
+{
+  "name": "rails_react_clinic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidrf/rails_react_clinic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidrf/rails_react_clinic/issues"
+  },
+  "homepage": "https://github.com/davidrf/rails_react_clinic#readme",
+  "devDependencies": {
+    "babel-preset-react": "^6.5.0"
+  }
+}
