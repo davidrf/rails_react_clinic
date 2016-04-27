@@ -1,10 +1,12 @@
 <h1>Page rendered at <%= Time.current %></h1>
-<div id="grocery-list">
+<div>
   <div>
     <h1>Grocery List Rails</h1>
     <%= render 'form' %>
     <%= render 'list' %>
   <div>
+</div>
+<div id="grocery-list">
 </div>
 <script id="initial-data" type="text/json">
   <%= raw @groceries.to_json %>
